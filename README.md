@@ -30,7 +30,9 @@
 </div> </div> 
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndStroy)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndStory&layout=compact&theme=tokyonight)
 
 
 
