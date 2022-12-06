@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome&fontSize=90)<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackEndStory&show_icons=true&theme=swift)
 
@@ -28,6 +28,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-the-badge&logo=GitHub Actions&logoColor=white">
 </div> </div> 
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndStroy)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
