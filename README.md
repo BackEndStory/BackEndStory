@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackEndStory&show_icons=true&theme=swift)
 
-#### <div text-align:center>⚡️My Stack⚡️
+### <div text-align:center>⚡️My Stack⚡️
   <div> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-the-badge&logo=Django&logoColor=white"> 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-the-badge&logo=Javascript&logoColor=white"> 
@@ -10,10 +10,8 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-the-badge&logo=Amazon AWS&logoColor=white"> 
   </div> 
 
-  
-  
 
-#### 🌪️Tools🌪️
+### 🌪️Tools🌪️
 
   <div><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-the-badge&logo=Postman&logoColor=white"> 
