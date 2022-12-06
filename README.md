@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackEndStory&show_icons=true&theme=swift)
 
