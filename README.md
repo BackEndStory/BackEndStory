@@ -32,7 +32,7 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndStory&layout=compact&theme=swift)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndStory&layout=compact)](https://github.com/BackEndStory/github-readme-stats)
 
 
 
