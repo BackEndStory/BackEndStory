@@ -1,13 +1,21 @@
 
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BackEndStory&show_icons=true&theme=swift)
+
+# 🌍 Skills
+
 
 ### <div text-align:center>⚡️My Stack⚡️
   <div> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-the-badge&logo=Django&logoColor=white"> 
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-the-badge&logo=Javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-the-badge&logo=Django&logoColor=white">   
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-the-badge&logo=Node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-the-badge&logo=Amazon AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-the-badge&logo=Amazon S3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-the-badge&logo=Amazon RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-the-badge&logo=Amazon EC2&logoColor=white">
   </div> 
 
 
@@ -21,7 +29,7 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-the-badge&logo=GitHub Actions&logoColor=white">
 </div> </div> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackEndStory&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
