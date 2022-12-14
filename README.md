@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-the-badge&logo=Git&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-the-badge&logo=GitHub Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-the-badge&logo=GitHub Actions&logoColor=white">
 </div> </div> 
 <br>
 <br>
